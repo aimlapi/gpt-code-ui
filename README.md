@@ -51,7 +51,7 @@ For Azure OpenAI Services, there are also other configurable variables like depl
 Note that model selection on the UI is currently not supported for Azure OpenAI Services.
 
 ```
-cp .env.example .env
+cp .env.aimlapi-example .env
 vim .env
 gptcode
 ```
